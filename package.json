@@ -1,8 +1,8 @@
 {
-  "name": "boilerplate",
+  "name": "expensify",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/benjaminpeters/indecision-app.git",
+  "repository": "https://github.com/benjaminpeters/expensify-app",
   "author": "Benjamin <benpeters49@gmail.com>",
   "license": "MIT",
   "scripts": {
